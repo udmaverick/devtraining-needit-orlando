@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Delete">cf989de92f9090102c09c886f699b67b</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>top</location>
+        <name>Delete</name>
+        <order>10</order>
+        <parent>8a65825d2f9850102c09c886f699b6f5</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-20 17:52:24</sys_created_on>
+        <sys_id>212675ad2fd090102c09c886f699b6aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_212675ad2fd090102c09c886f699b6aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-20 17:52:24</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=212675ad2fd090102c09c886f699b6aa"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d8bd613bdb34e308b2e05d00cf961949</instance_id>
+        <instance_name>dev72215</instance_name>
+        <name>sys_sg_button_instance_212675ad2fd090102c09c886f699b6aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Delete">cf989de92f9090102c09c886f699b67b</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Delete</label><location>top</location><name>Delete</name><order>10</order><parent>8a65825d2f9850102c09c886f699b6f5</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-20 17:52:24</sys_created_on><sys_id>212675ad2fd090102c09c886f699b6aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Delete</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_button_instance_212675ad2fd090102c09c886f699b6aa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-20 17:52:24</sys_updated_on><table>x_58872_needit_needit</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=212675ad2fd090102c09c886f699b6aa"/></record_update>]]></payload>
+        <payload_hash>-951491518</payload_hash>
+        <record_name>Delete</record_name>
+        <reverted_from/>
+        <source>b3850d952f1850102c09c886f699b68d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-20 17:52:24</sys_created_on>
+        <sys_id>692675ad2fd090102c09c886f699b6ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17198b841170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-20 17:52:24</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>a12675ade2d09010d5d037c706e044ac</update_guid>
+        <update_guid_history>a12675ade2d09010d5d037c706e044ac:-951491518</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-20 17:53:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>b9e0112c96cd4c0994b5a19d6d506c61</sys_id>
+        <sys_metadata>212675ad2fd090102c09c886f699b6aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_212675ad2fd090102c09c886f699b6aa</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_212675ad2fd090102c09c886f699b6aa">692675ad2fd090102c09c886f699b6ac</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-20 17:53:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
